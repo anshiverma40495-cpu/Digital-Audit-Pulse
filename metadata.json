@@ -1,0 +1,8 @@
+{
+  "name": "Digital Audit Pulse",
+  "description": "Know your website's pulse in 60 seconds. AI-powered digital marketing audit tool with scored SEO, content, keyword, technical, and AI-search readiness reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
